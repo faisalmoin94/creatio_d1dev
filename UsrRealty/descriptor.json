@@ -3,6 +3,7 @@
     "UId": "92cbbeae-5d57-46ea-af54-319241a5f35f",
     "Name": "UsrRealty",
     "Type": 1,
+    "ModifiedOnUtc": "\/Date(1752170454000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrRealty.csproj",
     "DependsOn": [
