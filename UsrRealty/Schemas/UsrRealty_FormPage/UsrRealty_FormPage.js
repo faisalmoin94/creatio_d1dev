@@ -345,6 +345,25 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
+				"name": "CategoryMultiSelect",
+				"values": {
+					"type": "crt.MultiSelect",
+					"label": "#ResourceString(CategoryMultiSelect_label)#",
+					"recordId": "$Id",
+					"recordRelationColumnName": "UsrParentRealty",
+					"selectSchemaName": "UsrCategoryInRealty",
+					"selectColumnName": "UsrCategory",
+					"visible": true,
+					"labelPosition": "auto",
+					"placeholder": "",
+					"tooltip": ""
+				},
+				"parentName": "GeneralInfoTab",
+				"propertyName": "items",
+				"index": 1
+			},
+			{
+				"operation": "insert",
 				"name": "ExpansionPanel_xc61u39",
 				"values": {
 					"type": "crt.ExpansionPanel",
@@ -369,7 +388,7 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 				},
 				"parentName": "GeneralInfoTab",
 				"propertyName": "items",
-				"index": 1
+				"index": 2
 			},
 			{
 				"operation": "insert",
