@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty form page" />
+			<Item Name="LocalizableStrings.ActionsButton_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.addRecord_70xe5jd_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_d4ph3ul_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_nxpmzcx_caption.Value" Value="Add new" />
@@ -15,9 +16,11 @@
 			<Item Name="LocalizableStrings.GridDetailRefreshBtn_s0exftn_caption.Value" Value="Refresh" />
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_q0l85w6_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_zpr634b_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.MaxPriceMenuItem_caption.Value" Value="Call max price web service" />
 			<Item Name="LocalizableStrings.PriceCannontBeLess.Value" Value="Price Cannot Be Less Than 50 USD" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 			<Item Name="LocalizableStrings.PushMeButton_messageTextAfterCompletion.Value" Value="Button Pushed Successfully!" />
+			<Item Name="LocalizableStrings.RunCalcAvgPriceProcessMenuItem_caption.Value" Value="Start calc realty avg price process" />
 		</Items>
 	</Group>
 </Resources>

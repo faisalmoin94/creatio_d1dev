@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "df2063b5-4e59-4d45-a9eb-1a37af70078a",
+    "Name": "UsrRealty_TaskRelatedPage",
+    "ModifiedOnUtc": "\/Date(1753289236000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty_Task (Page settings)",
+    "DependsOn": []
+  }
+}

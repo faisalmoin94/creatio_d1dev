@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty_Task form page" />
+			<Item Name="LocalizableStrings.addRecord_p55cpk2_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_roc4mua_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ExpansionPanel_038t0ce_title.Value" Value="Realty Visit" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_3ck9lsf_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_pt9joi4_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_h5eypfs_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_obeg0w7_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_tjxyt75_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_4mpheco_caption.Value" Value="Actions" />
+		</Items>
+	</Group>
+</Resources>

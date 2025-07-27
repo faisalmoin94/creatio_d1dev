@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.de6e56a6-992a-1afc-399f-69c1d28ffa11.Caption" Value="Make elements required: Comment" />
+			<Item Name="Caption" Value="Realty_Task form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
